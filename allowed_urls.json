@@ -1,0 +1,15 @@
+{
+    "allowedUrls": [
+        "https://st5.42web.io/VM_anime/App/index.php",
+        "https://st5.42web.io/VM_anime/App/details.php?id=",
+        "https://st5.42web.io/VM_anime/home/last_ep.php",
+        "https://st5.42web.io/VM_anime/home/anime_schedule.php",
+        "https://st5.42web.io/VM_anime/App/seasons.php",
+        "https://st5.42web.io/VM_anime/App/movies.php",
+        "https://st5.42web.io/VM_anime/App/series.php",
+        "https://st5.42web.io/VM_anime/cinema/index.php",
+        "https://st5.42web.io/VM_anime/App/live.php",
+        "https://st5.42web.io/VM_anime/login/applogin.php",
+        "https://st5.42web.io/VM_anime/App/latest.php"
+    ]
+}
