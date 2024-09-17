@@ -1,15 +1,13 @@
 {
-    "allowedUrls": [
-        "https://st5.42web.io/Shindo_VMpedia/",
-        "https://st5.42web.io/Shindo_VMpedia/login/ranks.php",
-      "https://st5.42web.io/Shindo_VMpedia/login/",
-      "https://st5.42web.io/Shindo_VMpedia/login/details.php",
-      "https://st5.42web.io/Shindo_VMpedia/login/register_character.php",
-      "https://st5.42web.io/Shindo_VMpedia/login/waitlist.php",
-      "https://st5.42web.io/Shindo_VMpedia/login/statistic.php",
-      "https://st5.42web.io/Shindo_VMpedia/login/admin/",
-      "https://st5.42web.io/Shindo_VMpedia/login/admin/admin.php",
-      
-        
-    ]
+  "allowedUrls": [
+    "https://st5.42web.io/Shindo_VMpedia/",
+    "https://st5.42web.io/Shindo_VMpedia/login/ranks.php",
+    "https://st5.42web.io/Shindo_VMpedia/login/",
+    "https://st5.42web.io/Shindo_VMpedia/login/details.php",
+    "https://st5.42web.io/Shindo_VMpedia/login/register_character.php",
+    "https://st5.42web.io/Shindo_VMpedia/login/waitlist.php",
+    "https://st5.42web.io/Shindo_VMpedia/login/statistic.php",
+    "https://st5.42web.io/Shindo_VMpedia/login/admin/",
+    "https://st5.42web.io/Shindo_VMpedia/login/admin/admin.php"
+  ]
 }
