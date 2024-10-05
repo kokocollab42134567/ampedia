@@ -16,6 +16,8 @@
     "https://st5.42web.io/Shindo_VMpedia/login/register_admin.php",
     "https://st5.42web.io/Shindo_VMpedia/login/validate_skills.php",
     "https://st5.42web.io/Shindo_VMpedia/login/select_my_schedule.php",
-    "https://st5.42web.io/Shindo_VMpedia/login/my_card.php"
+    "https://st5.42web.io/Shindo_VMpedia/login/my_card.php",
+    "https://st5.42web.io/Shindo_VMpedia/login/admin/manage_admin_requests.php",
+    "https://st5.42web.io/Shindo_VMpedia/login/admin/correct_test.php"
   ]
 }
