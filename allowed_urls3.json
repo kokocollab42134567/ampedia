@@ -1,10 +1,10 @@
 {
   "allowedUrls": [
-    "https://testswebs.free.nf/Manhwa/admin",
-    "https://testswebs.free.nf/Manhwa/admin/edit_manhwa.php",
-    "https://testswebs.free.nf/Manhwa/admin/add_manhwa.php",
-    "https://testswebs.free.nf/Manhwa/admin/add_chapter.php",
-    "https://testswebs.free.nf/Manhwa/admin/new_chapter.php"
+    "https://st5.42web.io/Manhwa/admin",
+    "https://st5.42web.io/Manhwa/admin/edit_manhwa.php",
+    "https://st5.42web.io/Manhwa/admin/add_manhwa.php",
+    "https://st5.42web.io/Manhwa/admin/add_chapter.php",
+    "https://st5.42web.io/Manhwa/admin/new_chapter.php"
   ]
 }
 
